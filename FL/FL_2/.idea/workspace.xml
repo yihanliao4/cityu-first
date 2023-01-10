@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d31b3e55-a5c4-472f-832d-90d13bbdb151" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../MyFL/clients.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFL/clients.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFL/getData.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFL/getData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFL/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFL/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFL/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFL/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFL/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFL/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFL/utils/conf.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFL/utils/conf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_FL_DP_HE/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../My_FL_DP_HE/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_FL_DP_HE/models/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../My_FL_DP_HE/models/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_FL_DP_HE/models/getData.py" beforeDir="false" afterPath="$PROJECT_DIR$/../My_FL_DP_HE/models/getData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Federated-Learning" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JcZ0t4K8vpQ1bboFVM1EXAKBy5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/cityu_github_first/FL/FL_2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d31b3e55-a5c4-472f-832d-90d13bbdb151" name="Changes" comment="" />
+      <created>1672379111653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672379111653</updated>
+    </task>
+    <servers />
+  </component>
+</project>
